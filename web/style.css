@@ -1,0 +1,9 @@
+body {
+    font-family: "Arial", sans-serif;
+    font-size : large;
+    background-color:limegreen;
+    color:black;
+    padding:15px;
+    border-bottom:5px solid deepskyblue;
+    margin-bottom:15px;
+}
